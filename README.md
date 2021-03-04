@@ -1,1 +1,4 @@
-# https-github.com-MetaChar-Mercury
+# Hello-world
+
+Hi Humans 
+Rakshi here,
